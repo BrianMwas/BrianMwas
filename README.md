@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating Beautiful, well built applications. Apart from this I love playing my guitar and going for a long bike ride
 - 🌱 I’m currently learning How to deploy Applications to AWS using Github OIDC
 - 💞️ I’m looking to collaborate on building Flutter plugins and/or packages
-- 📫 How to reach me, brnmwas@gmail.com, devbrian.netlify.app
+- 📫 How to reach me devbrian.netlify.app
 
 <!---
 BrianMwas/BrianMwas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
